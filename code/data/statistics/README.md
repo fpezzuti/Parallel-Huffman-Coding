@@ -1,0 +1,1 @@
+This directory is needed to store the statistics of the program.
